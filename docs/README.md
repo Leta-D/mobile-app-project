@@ -2,14 +2,6 @@
 
 FitLife is a Flutter-based fitness app designed to help users with gym and home workouts. The app provides over 2000 exercises with detailed descriptions, step-by-step instructions, GIFs, and filtering options based on body part, muscle group, and equipment. FitLife also allows users to track workouts, create personalized plans, and receive workout reminders.
 
-## Table of Contents
-1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Technologies Used](#technologies-used)
-5. [Contributing](#contributing)
-6. [License](#license)
-
 ## Features
 - **2000+ exercises** with instructions and GIFs.
 - **Search and filter** exercises by body part, muscle group, or equipment.
@@ -19,9 +11,6 @@ FitLife is a Flutter-based fitness app designed to help users with gym and home 
 - **Favorites** to save and easily access favorite exercises.
 - **Responsive design** for both Android and iOS platforms.
 
-## Installation
-
-To run the app locally, follow these steps:
 
 1. **Clone the repository**:
 
