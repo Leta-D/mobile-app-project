@@ -39,9 +39,9 @@ For more detailed information, check out the documentation in the `docs/` folder
 
 ## Group Name 
 
-Leta Dejene			Ugr/30823/15
-Segni Tsega			Ugr/31204/15
-Betselot Ertumo		Ugr/30297/15
-Remedan Jemal		Ugr/31138/15
-Bayisa Balcha			Ugr/30232/15
-Kenenisa Gemechu		Ugr/30774/15	
+Leta Dejene			Ugr/30823/15  
+Segni Tsega			Ugr/31204/15  
+Betselot Ertumo		Ugr/30297/15  
+Remedan Jemal		Ugr/31138/15  
+Bayisa Balcha			Ugr/30232/15  
+Kenenisa Gemechu		Ugr/30774/15  
